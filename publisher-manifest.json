@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "06e968e0bea9cab717c07635",
+  "owner": "g5gxus",
+  "repo": "page-964da74a3fa6a62d5032fcf7",
+  "title": "guilefree69141",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "964da74a3fa6a62d5032fcf7",
+      "a": "guilefree69141",
+      "b": "",
+      "entity": "guilefree69141",
+      "brand": "guilefree69141",
+      "separator": "",
+      "path": "index.html",
+      "hash": "f105d1e5e8b9d3f9e240ab7d590e68cdda149db22612bc2728f037ddd71033ad",
+      "content": {
+        "keyword1": "guilefree69141",
+        "keyword2": "",
+        "primary_entity": "guilefree69141",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "guilefree69141 提供基础到旗舰的VPN套餐，让你的网络连接更稳定顺畅。",
+          "AI_DESCRIPTION": "guilefree69141 提供基础到旗舰的VPN套餐，让你的网络连接更稳定顺畅。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n        :root {--white: #fafafa;--brick-red: #c23a3a}\n        * {margin: 0;padding: 0;box-sizing: border-box}\n        body {font-family: system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;line-height: 1.7;color: #333;background: var(--white);max-width: 1280px;margin: 0 auto}\n        .nav {position: fixed;left: 0;top: 0;bottom: 0;width: 240px;background: #f8f8f8;border-right: 1px solid #eee;padding: 40px 30px;z-index: 100}\n        .nav h2 {font-size: 1.1rem;color: var(--brick-red);margin-bottom: 20px;text-transform: uppercase;letter-spacing: 1px}\n        .nav ul {list-style: none}\n        .nav li {margin-bottom: 12px}\n        .nav a {color: #333;text-decoration: none;font-size: 1rem;display: block;padding: 8px 0;transition: color 0.3s}\n        .nav a:hover {color: var(--brick-red)}\n        .main-content {margin-left: 240px;padding: 80px 40px 60px}\n        header {text-align: center;margin-bottom: 60px}\n        h1 {font-size: 3.8rem;color: var(--brick-red);margin-bottom: 20px}\n        .hero-subtitle {font-size: 1.4rem;color: #555;max-width: 620px;margin: 0 auto}\n        .hero {display: flex;flex-direction: column;align-items: center;margin-bottom: 80px;background: linear-gradient(135deg, #fff 0%, #f8f1f0 100%);padding: 80px 20px;border-radius: 12px}\n        .hero .logo {font-size: 1rem;color: #666;letter-spacing: 4px;margin-bottom: 15px}\n        .hero h1 {font-size: 4.2rem;line-height: 1.1;margin-bottom: 25px}\n        .hero p {font-size: 1.25rem;color: #444;max-width: 520px;margin-bottom: 40px}\n        .cta {background: var(--brick-red);color: white;padding: 16px 48px;font-size: 1.1rem;border: none;border-radius: 4px;cursor: pointer;transition: all 0.3s}\n        .cta:hover {background: #a52f2f;transform: translateY(-2px)}\n        .data-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 30px;margin: 60px 0}\n        .data-card {background: white;border: 3px solid #eee;border-radius: 0;padding: 40px 30px;text-align: center;box-shadow: 0 4px 15px rgba(0,0,0,0.05);transition: transform 0.3s}\n        .data-card:hover {transform: translateY(-8px)}\n        .data-card .number {font-size: 3.5rem;color: var(--brick-red);font-weight: bold;margin-bottom: 8px}\n        .data-card h3 {color: #222;font-size: 1.3rem;margin-bottom: 12px}\n        .data-card p {color: #666;font-size: 0.95rem}\n        .plans-section {margin-bottom: 100px}\n        .plans-section h2 {font-size: 2.2rem;color: #222;margin-bottom: 50px;text-align: center;position: relative}\n        .plans-section h2:after {content: '';position: absolute;width: 80px;height: 3px;background: var(--brick-red);bottom: -12px;left: 50%;transform: translateX(-50%)}\n        .plans-grid {display: flex;flex-direction: column;gap: 30px}\n        .plan-card {background: white;border: 3px solid #eee;padding: 50px 40px;position: relative;transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1)}\n        .plan-card.featured {border-color: var(--brick-red);box-shadow: 0 15px 40px rgba(194, 58, 58, 0.15)}\n        .plan-card.featured::before {content: \"推荐\";position: absolute;top: -12px;right: 40px;background: var(--brick-red);color: white;font-size: 0.75rem;padding: 4px 18px;border-radius: 20px;font-weight: 600;letter-spacing: 0.5px}\n        .plan-card h3 {font-size: 1.8rem;margin-bottom: 10px;color: #222}\n        .plan-price {font-size: 2.8rem;font-weight: 700;color: var(--brick-red);margin: 20px 0 10px}\n        .plan-price small {font-size: 1rem;color: #777;font-weight: normal}\n        .plan-features {list-style: none}\n        .plan-features li {padding: 14px 0;border-bottom: 1px solid #eee;font-size: 1.05rem;display: flex;align-items: flex-start}\n        .plan-features li:before {content: \"✓\";color: var(--brick-red);font-size: 1.4rem;margin-right: 12px;flex-shrink: 0}\n        .faq-section {background: #f8f8f8;padding: 80px 40px}\n        .faq-section h2 {font-size: 2.2rem;margin-bottom: 60px;text-align: center}\n        .faq-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(480px, 1fr));gap: 30px}\n        .faq-item {background: white;padding: 35px 40px;border: 3px solid #eee}\n        .faq-question {font-size: 1.25rem;font-weight: 600;margin-bottom: 18px;color: #222}\n        .faq-answer {color: #444;font-size: 1.05rem}\n        .faq-answer ul {margin: 15px 0 0 20px}\n        .faq-answer li {margin: 8px 0}\n        footer {text-align: center;padding: 60px 20px 40px;font-size: 0.95rem;color: #777;border-top: 1px solid #eee}\n        @media (max-width: 768px) {\n            .nav {position: relative;width: 100%;height: auto;padding: 20px;border-right: none;border-bottom: 1px solid #eee}\n            .main-content {margin-left: 0;padding: 60px 20px}\n            .hero h1 {font-size: 3rem}\n        }\n    </style><nav class=\"nav\">\n        <h1>guilefree69141 · 导航</h1>\n        <ul>\n            <li><a href=\"#plans\">套餐选择</a></li>\n            <li><a href=\"#data\">核心数据</a></li>\n            <li><a href=\"#faq\">常见问题</a></li>\n            <li><a href=\"#about\">关于我们</a></li>\n        </ul>\n    </nav>\n\n    <main class=\"main-content\">\n        \n        <div class=\"hero\">\n            <div class=\"logo\">guilefree69141</div>\n            <h2>畅游网络<br>从此更简单</h2>\n            <p>我们用心打造每一次连接，让你感受到真正的自由与安心。</p>\n            \n        </div>\n\n        \n        <div class=\"data-grid\">\n            <div class=\"data-card\">\n                <div class=\"number\">99.8%</div>\n                <h3>在线率</h3>\n                <p>全年保持稳定连接，从不掉线</p>\n            </div>\n            <div class=\"data-card\">\n                <div class=\"number\">300GB</div>\n                <h3>每月流量</h3>\n                <p>旗舰版标准配置，超值体验</p>\n            </div>\n            <div class=\"data-card\">\n                <div class=\"number\">5</div>\n                <h3>设备支持</h3>\n                <p>手机、平板、电脑同时在线</p>\n            </div>\n            <div class=\"data-card\">\n                <div class=\"number\">24</div>\n                <h3>小时支持</h3>\n                <p>任何时间快速响应</p>\n            </div>\n        </div>\n\n        \n        <section id=\"plans\" class=\"plans-section\">\n            <h2>选择适合你的套餐</h2>\n            <div class=\"plans-grid\">\n                \n                <div class=\"plan-card\">\n                    <h3>基础版</h3>\n                    <div class=\"plan-price\">¥15<span>/月</span></div>\n                    <p>按年付仅需 ¥150/年</p>\n                    <ul class=\"plan-features\">\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n\n                \n                <div class=\"plan-card featured\">\n                    <h3>旗舰版</h3>\n                    <div class=\"plan-price\">¥35<span>/月</span></div>\n                    <p>按年付仅需 ¥350/年</p>\n                    <ul class=\"plan-features\">\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                </div>\n\n                \n                <div class=\"plan-card\">\n                    <h3>团队版</h3>\n                    <div class=\"plan-price\">¥85<span>/月</span></div>\n                    <p>按年付仅需 ¥850/年</p>\n                    <ul class=\"plan-features\">\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n        </section>\n\n        \n        <section id=\"faq\" class=\"faq-section\">\n            <h2>常见问题</h2>\n            <div class=\"faq-grid\">\n                <div class=\"faq-item\">\n                    <div class=\"faq-question\">1. guilefree69141 支持多少台设备同时使用？</div>\n                    <div class=\"faq-answer\">\n                        不同套餐配置有所不同。基础版支持 3 台，旗舰版 5 台，团队版可达 20 台。建议根据家庭或办公室人数选择对应套餐。\n                    </div>\n                </div>\n                <div class=\"faq-item\">\n                    <div class=\"faq-question\">2. 每月流量是否可以跨月使用？</div>\n                    <div class=\"faq-answer\">\n                        流量是按月计算的，每个月都会重新计算当月使用量。如果你计划使用比较大，可以选择旗舰版或团队版，确保有足够缓冲。\n                    </div>\n                </div>\n                <div class=\"faq-item\">\n                    <div class=\"faq-question\">3. 如何开通并开始使用？</div>\n                    <div class=\"faq-answer\">\n                        选择套餐后，完成在线支付即可。系统会自动推送连接设置和登录方式，你只需要按照指引在设备上安装软件或手动配置即可。\n                    </div>\n                </div>\n                <div class=\"faq-item\">\n                    <div class=\"faq-question\">4. 能否用于企业内部网络？</div>\n                    <div class=\"faq-answer\">\n                        团队版套餐专为企业设计，支持企业定制路由和 VIP 专属节点，非常适合中小型企业或多个员工使用。\n                    </div>\n                </div>\n            </div>\n        </section>\n    </main>\n\n    <footer>\n        <p>guilefree69141 — 可靠的网络连接伙伴</p>\n        <p>© 2026 所有权利保留 | 仅供参考，实际以官网为准</p>\n    </footer>",
+          "hash": "034a4bd80c5bf7122242886c7d9b8434e8cbe0f16fdac726d4cf259d0664acf3",
+          "seo": {
+            "title": "guilefree69141 | 可靠的VPN服务，让你畅行无忧",
+            "keywords": "VPN, guilefree69141, 网络服务, 流量套餐, 安全上网",
+            "description": "guilefree69141 提供基础到旗舰的VPN套餐，让你的网络连接更稳定顺畅。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6",
+          "design": {
+            "no": "5731",
+            "hero": "4 仪表盘式数据块拼贴",
+            "palette": "2 米白配砖红",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "2 纵向列表逐行展开",
+            "faq_view": "2 编号列表",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hqhcb.cn",
+    "host": "p-9448f07255.hqhcb.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "a8e31b1ecae9743c5a668c6fc8923c7d7ea78fd58162bcf5e90d47e10e23314f",
+    "sitemap.xml": "b1f63a6ac03858d04f6b4c03943234e73362cc66403e0f88754a9813330138c2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "694329762d10f073ca6f0173b8e1f8487849518577b999a2148bb4e109160b88",
+    "robots.txt": "d37ed7b6a0b86bc9f5581a38e1ee45e1442af524165b63d3000ac49b26fbaf12",
+    "68b3026336beb65fd19c2d49a72b8593.txt": "c59ce27bd97447fe38344dc2a2db4d9cdd560f15901b41b588ad8e157ba5a20b"
+  },
+  "revision": "c40967125d24b80054f98e8decf8d571c20e97707298d0bbb81d21e6eca8bb46"
+}
